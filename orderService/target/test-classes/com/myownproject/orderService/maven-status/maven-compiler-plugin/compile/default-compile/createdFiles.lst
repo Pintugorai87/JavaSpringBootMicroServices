@@ -1,0 +1,10 @@
+com/myownproject/orderService/OrderServiceApplication.class
+com/myownproject/orderService/model/OrderRequest$OrderRequestBuilder.class
+com/myownproject/orderService/model/OrderRequest.class
+com/myownproject/orderService/service/OrderServiceImpl.class
+com/myownproject/orderService/service/OrderService.class
+com/myownproject/orderService/entity/Order$OrderBuilder.class
+com/myownproject/orderService/controller/OrderController.class
+com/myownproject/orderService/repository/OrderRepository.class
+com/myownproject/orderService/entity/Order.class
+com/myownproject/orderService/model/PaymentMode.class
